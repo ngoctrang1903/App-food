@@ -1,4 +1,5 @@
 # App - Food
+Welcome to my App. The App has an easy-to-use interface, with functions such as registration, login, ordering, editing personal information, product management, order management, .....
 ## Role User
 ### Dashboard
 ![image alt](https://github.com/ngoctrang1903/App-food/blob/53e9abb53b586b649f0b2581bd02fe988f0fea8e/Dashboard.jpg)
